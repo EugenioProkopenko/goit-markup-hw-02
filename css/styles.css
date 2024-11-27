@@ -95,8 +95,7 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
-.list-avatar {
-}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -121,4 +120,7 @@
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+}
+.list-avatar {
+  background-color: #ffffff;
 }
