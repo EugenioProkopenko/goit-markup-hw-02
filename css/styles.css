@@ -104,6 +104,9 @@
   text-align: center;
   color: #2e2f42;
 }
+.list-blok {
+  background-color: #ffffff;
+}
 
 .title-avatar {
   font-weight: 500;
@@ -121,6 +124,41 @@
   text-align: center;
   color: #434455;
 }
-.list-avatar {
+
+.list-blok {
   background-color: #ffffff;
+}
+.section-portfolio {
+}
+.portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.porfolio-list-images {
+}
+.portfolio-list-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.portfolio-list-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
