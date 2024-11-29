@@ -96,6 +96,9 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+.section-team {
+  background-color: #f4f4fd;
+}
 
 .team-title {
   font-weight: 700;
@@ -139,7 +142,7 @@
   color: #2e2f42;
 }
 
-.portfolio-list-title {
+.portfolio-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
